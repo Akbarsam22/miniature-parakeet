@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\vscode-insiders\vscode-insiders.nupkg" checksum="BF5668AF9E7F59E74C762E92F612FD37" />
+    <file path="C:\ProgramData\chocolatey\lib\vscode-insiders\vscode-insiders.nuspec" checksum="49CAABA3CA9ECDD559FFDB53144CE919" />
+  </files>
+</fileSnapshot>
